@@ -11,6 +11,7 @@ Fraction::Fraction(int numeration, int denominator)
 	m_denominator = denominator;
 }
 
+
 Fraction::~Fraction()
 {
 }
