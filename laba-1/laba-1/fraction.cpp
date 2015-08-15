@@ -3,6 +3,8 @@
 
 Fraction::Fraction()
 {
+	m_numeration = 1;
+	m_denominator = 3;
 }
 
 Fraction::Fraction(int numeration, int denominator)
