@@ -10,7 +10,7 @@ private:
 
 public:
 	Fraction();
-	Fraction(int numeration = 1, int denominator = 1);
+	Fraction(int numeration, int denominator);
 	~Fraction();
 
 
