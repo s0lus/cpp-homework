@@ -4,15 +4,13 @@
 
 class Fraction
 {
-
 private:
 	int m_numerator;
 	int m_denominator;
 
-
 public:
 	Fraction();
-	Fraction(int numeration = 1, int denominator = 1);
+	Fraction(int numeration, int denominator);
 	~Fraction();
 
 
@@ -21,5 +19,4 @@ public:
 	void simplify();
 	// greatest common divisior
 	int gcd(int a, int b);
-
 };
