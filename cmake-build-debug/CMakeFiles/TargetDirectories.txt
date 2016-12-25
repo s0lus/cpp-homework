@@ -1,0 +1,3 @@
+/home/alexander/github/cpp-homework/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/alexander/github/cpp-homework/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/alexander/github/cpp-homework/cmake-build-debug/CMakeFiles/cpp_homework.dir

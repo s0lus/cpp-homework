@@ -1,0 +1,15 @@
+/home/alexander/JetBrains/apps/CLion/ch-0/163.9166.31/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/alexander/github/cpp-homework
+-- Configuring done
+CMake Error at CMakeLists.txt:164 (add_executable):
+  Cannot find source file:
+
+    AbstractClass/build/Debug/Cygwin-Windows/main.o
+
+  Tried extensions .c .C .c++ .cc .cpp .cxx .m .M .mm .h .hh .h++ .hm .hpp
+  .hxx .in .txx
+
+
+CMake Error: CMake can not determine linker language for target: cpp_homework
+CMake Error: Cannot determine link language for target "cpp_homework".
+-- Generating done
+-- Build files have been written to: /home/alexander/github/cpp-homework/cmake-build-debug
