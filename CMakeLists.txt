@@ -86,22 +86,22 @@ set(SOURCE_FILES
     Class_Inheritance/Makefile
     Class_Inheritance/Rectangle.cpp
     Class_Inheritance/Rectangle.h
-    ClassRectangle/build/Debug/GNU-Linux-x86/main.o
-    ClassRectangle/build/Debug/GNU-Linux-x86/main.o.d
-    ClassRectangle/dist/Debug/GNU-Linux-x86/classrectangle
-    ClassRectangle/nbproject/private/configurations.xml
-    ClassRectangle/nbproject/private/Makefile-variables.mk
-    ClassRectangle/nbproject/private/private.xml
-    ClassRectangle/nbproject/configurations.xml
-    ClassRectangle/nbproject/Makefile-Debug.mk
-    ClassRectangle/nbproject/Makefile-impl.mk
-    ClassRectangle/nbproject/Makefile-Release.mk
-    ClassRectangle/nbproject/Makefile-variables.mk
-    ClassRectangle/nbproject/Package-Debug.bash
-    ClassRectangle/nbproject/Package-Release.bash
-    ClassRectangle/nbproject/project.xml
-    ClassRectangle/main.cpp
-    ClassRectangle/Makefile
+        4/build/Debug/GNU-Linux-x86/main.o
+        4/build/Debug/GNU-Linux-x86/main.o.d
+        4/dist/Debug/GNU-Linux-x86/classrectangle
+        4/nbproject/private/configurations.xml
+        4/nbproject/private/Makefile-variables.mk
+        4/nbproject/private/private.xml
+        4/nbproject/configurations.xml
+        4/nbproject/Makefile-Debug.mk
+        4/nbproject/Makefile-impl.mk
+        4/nbproject/Makefile-Release.mk
+        4/nbproject/Makefile-variables.mk
+        4/nbproject/Package-Debug.bash
+        4/nbproject/Package-Release.bash
+        4/nbproject/project.xml
+        4/main.cpp
+        4/Makefile
     FileProg/build/Debug/GNU-Linux-x86/main.o
     FileProg/build/Debug/GNU-Linux-x86/main.o.d
     FileProg/dist/Debug/GNU-Linux-x86/fileprog
@@ -159,6 +159,6 @@ set(SOURCE_FILES
     MaxMinReferences/nbproject/project.xml
     MaxMinReferences/main.cpp
     MaxMinReferences/Makefile
-    README.md)
+    README.md 4/Rectangle.h 4/Rectangle.cpp)
 
 add_executable(cpp_homework ${SOURCE_FILES})
