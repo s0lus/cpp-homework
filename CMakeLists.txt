@@ -35,36 +35,36 @@ set(SOURCE_FILES
         3/Square.h
         3/Triangle.cpp
         3/Triangle.h
-    BInFile/build/Debug/Cygwin-Windows/CreateFile.o
-    BInFile/build/Debug/Cygwin-Windows/CreateFile.o.d
-    BInFile/build/Debug/Cygwin-Windows/main.o
-    BInFile/build/Debug/Cygwin-Windows/main.o.d
-    BInFile/build/Debug/GNU-Linux-x86/CreateBinFile.o
-    BInFile/build/Debug/GNU-Linux-x86/CreateBinFile.o.d
-    BInFile/build/Debug/GNU-Linux-x86/CreateFile.o
-    BInFile/build/Debug/GNU-Linux-x86/CreateFile.o.d
-    BInFile/build/Debug/GNU-Linux-x86/main.o
-    BInFile/build/Debug/GNU-Linux-x86/main.o.d
-    BInFile/dist/Debug/Cygwin-Windows/binfile.exe
-    BInFile/dist/Debug/GNU-Linux-x86/binfile
-    BInFile/nbproject/private/configurations.xml
-    BInFile/nbproject/private/launcher.properties
-    BInFile/nbproject/private/Makefile-variables.mk
-    BInFile/nbproject/private/private.xml
-    BInFile/nbproject/configurations.xml
-    BInFile/nbproject/Makefile-Debug.mk
-    BInFile/nbproject/Makefile-impl.mk
-    BInFile/nbproject/Makefile-Release.mk
-    BInFile/nbproject/Makefile-variables.mk
-    BInFile/nbproject/Package-Debug.bash
-    BInFile/nbproject/Package-Release.bash
-    BInFile/nbproject/project.xml
-    BInFile/CreateBinFile.cpp
-    BInFile/CreateBinFIle.h
-    BInFile/CreateFile.cpp
-    BInFile/CreateFile.h
-    BInFile/file
-    BInFile/main.cpp
+        9/build/Debug/Cygwin-Windows/CreateFile.o
+        9/build/Debug/Cygwin-Windows/CreateFile.o.d
+        9/build/Debug/Cygwin-Windows/main.o
+        9/build/Debug/Cygwin-Windows/main.o.d
+        9/build/Debug/GNU-Linux-x86/CreateBinFile.o
+        9/build/Debug/GNU-Linux-x86/CreateBinFile.o.d
+        9/build/Debug/GNU-Linux-x86/CreateFile.o
+        9/build/Debug/GNU-Linux-x86/CreateFile.o.d
+        9/build/Debug/GNU-Linux-x86/main.o
+        9/build/Debug/GNU-Linux-x86/main.o.d
+        9/dist/Debug/Cygwin-Windows/binfile.exe
+        9/dist/Debug/GNU-Linux-x86/binfile
+        9/nbproject/private/configurations.xml
+        9/nbproject/private/launcher.properties
+        9/nbproject/private/Makefile-variables.mk
+        9/nbproject/private/private.xml
+        9/nbproject/configurations.xml
+        9/nbproject/Makefile-Debug.mk
+        9/nbproject/Makefile-impl.mk
+        9/nbproject/Makefile-Release.mk
+        9/nbproject/Makefile-variables.mk
+        9/nbproject/Package-Debug.bash
+        9/nbproject/Package-Release.bash
+        9/nbproject/project.xml
+        9/CreateBinFile.cpp
+        9/CreateBinFIle.h
+        9/CreateFile.cpp
+        9/CreateFile.h
+        9/file
+        9/main.cpp
         5/build/Debug/GNU-Linux-x86/main.o
         5/build/Debug/GNU-Linux-x86/main.o.d
         5/build/Debug/GNU-Linux-x86/Rectangle.o
