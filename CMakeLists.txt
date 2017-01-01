@@ -65,27 +65,27 @@ set(SOURCE_FILES
     BInFile/CreateFile.h
     BInFile/file
     BInFile/main.cpp
-        Class_Inheritance/build/Debug/GNU-Linux-x86/main.o
-    Class_Inheritance/build/Debug/GNU-Linux-x86/main.o.d
-    Class_Inheritance/build/Debug/GNU-Linux-x86/Rectangle.o
-    Class_Inheritance/build/Debug/GNU-Linux-x86/Rectangle.o.d
-    Class_Inheritance/dist/Debug/GNU-Linux-x86/class_inheritance
-    Class_Inheritance/nbproject/private/configurations.xml
-    Class_Inheritance/nbproject/private/launcher.properties
-    Class_Inheritance/nbproject/private/Makefile-variables.mk
-    Class_Inheritance/nbproject/private/private.xml
-    Class_Inheritance/nbproject/configurations.xml
-    Class_Inheritance/nbproject/Makefile-Debug.mk
-    Class_Inheritance/nbproject/Makefile-impl.mk
-    Class_Inheritance/nbproject/Makefile-Release.mk
-    Class_Inheritance/nbproject/Makefile-variables.mk
-    Class_Inheritance/nbproject/Package-Debug.bash
-    Class_Inheritance/nbproject/Package-Release.bash
-    Class_Inheritance/nbproject/project.xml
-    Class_Inheritance/main.cpp
-    Class_Inheritance/Makefile
-    Class_Inheritance/Rectangle.cpp
-    Class_Inheritance/Rectangle.h
+        5/build/Debug/GNU-Linux-x86/main.o
+        5/build/Debug/GNU-Linux-x86/main.o.d
+        5/build/Debug/GNU-Linux-x86/Rectangle.o
+        5/build/Debug/GNU-Linux-x86/Rectangle.o.d
+        5/dist/Debug/GNU-Linux-x86/class_inheritance
+        5/nbproject/private/configurations.xml
+        5/nbproject/private/launcher.properties
+        5/nbproject/private/Makefile-variables.mk
+        5/nbproject/private/private.xml
+        5/nbproject/configurations.xml
+        5/nbproject/Makefile-Debug.mk
+        5/nbproject/Makefile-impl.mk
+        5/nbproject/Makefile-Release.mk
+        5/nbproject/Makefile-variables.mk
+        5/nbproject/Package-Debug.bash
+        5/nbproject/Package-Release.bash
+        5/nbproject/project.xml
+        5/main.cpp
+        5/Makefile
+        5/Rectangle.cpp
+        5/Rectangle.h
         4/build/Debug/GNU-Linux-x86/main.o
         4/build/Debug/GNU-Linux-x86/main.o.d
         4/dist/Debug/GNU-Linux-x86/classrectangle
@@ -159,6 +159,6 @@ set(SOURCE_FILES
     MaxMinReferences/nbproject/project.xml
     MaxMinReferences/main.cpp
     MaxMinReferences/Makefile
-    README.md 4/Rectangle.h 4/Rectangle.cpp)
+    README.md 4/Rectangle.h 4/Rectangle.cpp 5/Parallelepiped.cpp 5/Parallelepiped.h)
 
 add_executable(cpp_homework ${SOURCE_FILES})

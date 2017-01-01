@@ -1,3 +1,5 @@
+#include "Rectangle.h"
+
 Rectangle::Rectangle(int A, int B)
 {
 	SetSideAB(A, B);
