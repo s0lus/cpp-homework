@@ -34,10 +34,10 @@ cmake_force:
 SHELL = /bin/sh
 
 # The CMake executable.
-CMAKE_COMMAND = /home/alexander/JetBrains/apps/CLion/ch-0/163.9166.31/bin/cmake/bin/cmake
+CMAKE_COMMAND = /home/alexander/JetBrains/apps/CLion/ch-0/163.10154.43/bin/cmake/bin/cmake
 
 # The command to remove a file.
-RM = /home/alexander/JetBrains/apps/CLion/ch-0/163.9166.31/bin/cmake/bin/cmake -E remove -f
+RM = /home/alexander/JetBrains/apps/CLion/ch-0/163.10154.43/bin/cmake/bin/cmake -E remove -f
 
 # Escaping for special characters.
 EQUALS = =

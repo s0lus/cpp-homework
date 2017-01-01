@@ -120,12 +120,12 @@ set(SOURCE_FILES
     FileProg/file.txt
     FileProg/main.cpp
     FileProg/Makefile
-    laba-1/laba-1/fraction.cpp
-    laba-1/laba-1/fraction.h
-    laba-1/laba-1/main.cpp
-    laba-2/laba-2/main.cpp
-    laba-2/laba-2/Triangle.cpp
-    laba-2/laba-2/Triangle.h
+        1/fraction.cpp
+        1/fraction.h
+        1/main.cpp
+        2/main.cpp
+        2/Triangle.cpp
+        2/Triangle.h
     MaxMinElements/build/Debug/GNU-Linux-x86/main.o
     MaxMinElements/build/Debug/GNU-Linux-x86/main.o.d
     MaxMinElements/dist/Debug/GNU-Linux-x86/maxminelements

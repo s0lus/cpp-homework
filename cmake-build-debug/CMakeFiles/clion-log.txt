@@ -1,4 +1,18 @@
-/home/alexander/JetBrains/apps/CLion/ch-0/163.9166.31/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/alexander/github/cpp-homework
+/home/alexander/JetBrains/apps/CLion/ch-0/163.10154.43/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/alexander/github/cpp-homework
+-- The C compiler identification is GNU 5.4.0
+-- The CXX compiler identification is GNU 5.4.0
+-- Check for working C compiler: /usr/bin/cc
+-- Check for working C compiler: /usr/bin/cc -- works
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Check for working CXX compiler: /usr/bin/c++
+-- Check for working CXX compiler: /usr/bin/c++ -- works
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
 -- Configuring done
 CMake Error at CMakeLists.txt:164 (add_executable):
   Cannot find source file:
@@ -13,3 +27,4 @@ CMake Error: CMake can not determine linker language for target: cpp_homework
 CMake Error: Cannot determine link language for target "cpp_homework".
 -- Generating done
 -- Build files have been written to: /home/alexander/github/cpp-homework/cmake-build-debug
+Unable to determine product file path for target cpp_homework (Debug). Running and debugging will be unavailable.
