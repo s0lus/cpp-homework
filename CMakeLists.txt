@@ -142,23 +142,23 @@ set(SOURCE_FILES
     MaxMinElements/nbproject/project.xml
     MaxMinElements/main.cpp
     MaxMinElements/Makefile
-    MaxMinReferences/build/Debug/GNU-Linux-x86/main.o
-    MaxMinReferences/build/Debug/GNU-Linux-x86/main.o.d
-    MaxMinReferences/dist/Debug/GNU-Linux-x86/maxminreferences
-    MaxMinReferences/nbproject/private/configurations.xml
-    MaxMinReferences/nbproject/private/launcher.properties
-    MaxMinReferences/nbproject/private/Makefile-variables.mk
-    MaxMinReferences/nbproject/private/private.xml
-    MaxMinReferences/nbproject/configurations.xml
-    MaxMinReferences/nbproject/Makefile-Debug.mk
-    MaxMinReferences/nbproject/Makefile-impl.mk
-    MaxMinReferences/nbproject/Makefile-Release.mk
-    MaxMinReferences/nbproject/Makefile-variables.mk
-    MaxMinReferences/nbproject/Package-Debug.bash
-    MaxMinReferences/nbproject/Package-Release.bash
-    MaxMinReferences/nbproject/project.xml
-    MaxMinReferences/main.cpp
-    MaxMinReferences/Makefile
+        8/build/Debug/GNU-Linux-x86/main.o
+        8/build/Debug/GNU-Linux-x86/main.o.d
+        8/dist/Debug/GNU-Linux-x86/maxminreferences
+        8/nbproject/private/configurations.xml
+        8/nbproject/private/launcher.properties
+        8/nbproject/private/Makefile-variables.mk
+        8/nbproject/private/private.xml
+        8/nbproject/configurations.xml
+        8/nbproject/Makefile-Debug.mk
+        8/nbproject/Makefile-impl.mk
+        8/nbproject/Makefile-Release.mk
+        8/nbproject/Makefile-variables.mk
+        8/nbproject/Package-Debug.bash
+        8/nbproject/Package-Release.bash
+        8/nbproject/project.xml
+        8/main.cpp
+        8/Makefile
     README.md 4/Rectangle.h 4/Rectangle.cpp 5/Parallelepiped.cpp 5/Parallelepiped.h)
 
 add_executable(cpp_homework ${SOURCE_FILES})
