@@ -102,24 +102,24 @@ set(SOURCE_FILES
         4/nbproject/project.xml
         4/main.cpp
         4/Makefile
-    FileProg/build/Debug/GNU-Linux-x86/main.o
-    FileProg/build/Debug/GNU-Linux-x86/main.o.d
-    FileProg/dist/Debug/GNU-Linux-x86/fileprog
-    FileProg/nbproject/private/configurations.xml
-    FileProg/nbproject/private/launcher.properties
-    FileProg/nbproject/private/Makefile-variables.mk
-    FileProg/nbproject/private/private.xml
-    FileProg/nbproject/configurations.xml
-    FileProg/nbproject/Makefile-Debug.mk
-    FileProg/nbproject/Makefile-impl.mk
-    FileProg/nbproject/Makefile-Release.mk
-    FileProg/nbproject/Makefile-variables.mk
-    FileProg/nbproject/Package-Debug.bash
-    FileProg/nbproject/Package-Release.bash
-    FileProg/nbproject/project.xml
-    FileProg/file.txt
-    FileProg/main.cpp
-    FileProg/Makefile
+        7/build/Debug/GNU-Linux-x86/main.o
+        7/build/Debug/GNU-Linux-x86/main.o.d
+        7/dist/Debug/GNU-Linux-x86/fileprog
+        7/nbproject/private/configurations.xml
+        7/nbproject/private/launcher.properties
+        7/nbproject/private/Makefile-variables.mk
+        7/nbproject/private/private.xml
+        7/nbproject/configurations.xml
+        7/nbproject/Makefile-Debug.mk
+        7/nbproject/Makefile-impl.mk
+        7/nbproject/Makefile-Release.mk
+        7/nbproject/Makefile-variables.mk
+        7/nbproject/Package-Debug.bash
+        7/nbproject/Package-Release.bash
+        7/nbproject/project.xml
+        7/file.txt
+        7/main.cpp
+        7/Makefile
         1/fraction.cpp
         1/fraction.h
         1/main.cpp
