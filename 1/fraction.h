@@ -1,4 +1,3 @@
-
 #include <iostream>
 
 class Fraction
@@ -16,6 +15,6 @@ public:
 	void print() const;
 	// irreducible view
 	void simplify();
-	// greatest common divisior
+	// greatest common divisor
 	int gcd(int a, int b);
 };

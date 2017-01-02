@@ -1,9 +1,8 @@
 #include "fraction.h"
 
-
 Fraction::Fraction()
 {
-	m_numeration = 1;
+	m_numerator = 1;
 	m_denominator = 3;
 }
 
