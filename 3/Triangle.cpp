@@ -8,7 +8,7 @@ Triangle::Triangle(double sideA, double sideB, double sideC, double sideH)
     h = sideH;
 }
 
-double Triangle::Perimetr()
+double Triangle::Perimeter()
 {
    return (a + b + c);
 }

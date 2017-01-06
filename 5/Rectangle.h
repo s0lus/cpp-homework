@@ -1,6 +1,9 @@
 #ifndef RECTANGLE_H
 #define	RECTANGLE_H
 
+#include <iostream>
+#include <cmath>
+
 class Rectangle
 {
 public:
@@ -9,9 +12,9 @@ public:
     ~Rectangle() {}
     
     void setSideAB(int sideA, int sideB);
-    int GetArea();
-    int GetPerimiter();
-    int GetDiagonal(); 
+    int getArea();
+    int getPerimeter();
+	double getDiagonal();
     
 private:
     int a, b;

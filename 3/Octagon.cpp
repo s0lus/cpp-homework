@@ -1,4 +1,3 @@
-#include <math.h>
 #include "Octagon.h"
 
 Octagon::Octagon(double sideA)
@@ -6,7 +5,7 @@ Octagon::Octagon(double sideA)
     a = sideA;
 }
 
-double Octagon::Perimetr()
+double Octagon::Perimeter()
 {
     return 8 * a;
 }

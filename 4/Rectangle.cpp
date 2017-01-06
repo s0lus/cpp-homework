@@ -2,7 +2,7 @@
 
 Rectangle::Rectangle(int A, int B)
 {
-	SetSideAB(A, B);
+	setSideAB(A, B);
 }
 
 Rectangle::Rectangle()
@@ -21,7 +21,7 @@ int Rectangle::getArea()
 {
 	int resultArea = a * b;
 
-	cout << "Площадь прямоугольника: " << resultArea << endl;
+	std::cout << "Площадь прямоугольника: " << resultArea << std::endl;
 
 	return resultArea;
 }
@@ -30,16 +30,16 @@ int Rectangle::getPerimeter()
 {
 	int resultPerimeter = 2 * (a + b);
 
-	cout << "Периметр прямоугольника: " << resultPerimeter << endl;
+	std::cout << "Периметр прямоугольника: " << resultPerimeter << std::endl;
 
-	return resultPerimetr;
+	return resultPerimeter;
 }
 
-int Rectangle::getDiagonal()
+double Rectangle::getDiagonal()
 {
-	int resultDiagonal = sqrt(a * a + b * b);
+	double resultDiagonal = sqrt(a * a + b * b);
 
-	cout << "Длина диагоналей прямоугольника: " << resultDiagonal << endl;
+	std::cout << "Длина диагоналей прямоугольника: " << resultDiagonal << std::endl;
 
 	return resultDiagonal;
 }

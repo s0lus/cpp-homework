@@ -7,10 +7,10 @@ class Square: public RegularPolygon
 {
 public:
     Square(int sideA);
-    double Perimetr();
+    double Perimeter();
     double Area();
 private:
-    double a, b;
+    double a;
 };
 
 #endif	/* SQUARE_H */

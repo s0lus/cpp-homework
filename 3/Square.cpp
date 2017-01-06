@@ -5,7 +5,7 @@ Square::Square(int sideA)
     a = sideA;
 }
 
-double Square::Perimetr()
+double Square::Perimeter()
 {
     return 4 * a;
 }

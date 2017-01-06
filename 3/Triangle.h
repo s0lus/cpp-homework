@@ -7,7 +7,7 @@ class Triangle: public RegularPolygon
 {
 public:
     Triangle(double sideA, double sideB, double sideC, double sideH);
-    double Perimetr();
+    double Perimeter();
     double Area();
 private:
     double a, b, c, h;

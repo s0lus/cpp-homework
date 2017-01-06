@@ -1,9 +1,8 @@
 #include "Parallelepiped.h"
-#include "Rectangle.h"
 
 Parallelepiped::Parallelepiped(int A, int B, int C, int H):Rectangle(A, B)
 {
-	SetSideABCH(A, B, C, H);
+	setSideABCH(A, B, C, H);
 }
 
 Parallelepiped::Parallelepiped()
@@ -29,9 +28,9 @@ int Parallelepiped::getVolume()
 	return resultVolume;
 }
 
-int Parallelepiped::getDiagonalParallelepiped()
+double Parallelepiped::getDiagonalParallelepiped()
 {
-	int resultDiagonal = sqrt(a * a + b * b + c * c);
+	double resultDiagonal = sqrt(a * a + b * b + c * c);
 
 	return resultDiagonal;
 }

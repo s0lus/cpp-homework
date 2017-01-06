@@ -4,7 +4,7 @@
 class RegularPolygon
 {
 public:
-    virtual double Perimetr() = 0;
+    virtual double Perimeter() = 0;
     virtual double Area() = 0;
 };
 

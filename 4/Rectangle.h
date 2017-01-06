@@ -1,3 +1,5 @@
+#include <iostream>
+#include <cmath>
 
 class Rectangle
 {
@@ -8,7 +10,7 @@ public:
 	void setSideAB(int sideA, int sideB);
 	int getArea();
 	int getPerimeter();
-	int getDiagonal();
+	double getDiagonal();
 
 private:
 	int a, b;

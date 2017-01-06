@@ -1,12 +1,8 @@
-#include <iostream>
-#include <cmath>
 #include "Rectangle.h"
-
-using namespace std;
 
 Rectangle::Rectangle(int A, int B)
 {
-    SetSideAB(A, B);
+    setSideAB(A, B);
 }
 
 Rectangle::Rectangle()
@@ -15,29 +11,29 @@ Rectangle::Rectangle()
     b = 10;
 }
 
-void Rectangle::SetSideAB(int sideA, int sideB)
+void Rectangle::setSideAB(int sideA, int sideB)
 {
     a = sideA;
     b = sideB;
 }
 
-int Rectangle::GetArea()
+int Rectangle::getArea()
 {
     int resultArea = a * b;
-    
+
     return resultArea;
 }
 
-int Rectangle::GetPerimiter()
+int Rectangle::getPerimeter()
 {
-   int resultPerimetr = 2 * (a + b);
-    
-   return resultPerimetr;
+   int resultPerimeter = 2 * (a + b);
+
+   return resultPerimeter;
 }
 
-int Rectangle::GetDiagonal()
+double Rectangle::getDiagonal()
 {
-   int resultDiagonal = sqrt(a * a + b * b);
-    
-   return resultDiagonal;    
+   double resultDiagonal = sqrt(a * a + b * b);
+
+   return resultDiagonal;
 }

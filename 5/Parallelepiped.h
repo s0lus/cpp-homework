@@ -1,3 +1,8 @@
+#include <iostream>
+#include <cmath>
+
+#include "Rectangle.h"
+
 class Parallelepiped: public Rectangle
 {
 public:
@@ -7,7 +12,7 @@ public:
 
 	void setSideABCH(int sideA, int sideB, int sideC, int height);
 	int getVolume();
-	int getDiagonalParallelepiped();
+	double getDiagonalParallelepiped();
 
 private:
 	int a, b, c, h;

@@ -1,7 +1,13 @@
 #ifndef CREATEFILE_H
 #define	CREATEFILE_H
 
-void CreateFile();
+#include <iostream>
+#include <fstream>
+#include <math.h>
+#include <stdlib.h>
+#include <time.h>
+
+void createFile();
 
 struct Point
 {

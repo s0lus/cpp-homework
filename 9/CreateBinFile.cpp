@@ -1,17 +1,13 @@
-#include <iostream>
-#include <fstream>
-#include <time.h>
-#include <stdlib.h>
 #include "CreateBinFIle.h"
 
 using namespace std;
 
-void CreateFile()
+void createBinFile()
 {
     fstream binFile("file", fstream::in | fstream::out | fstream::trunc| fstream::binary);
     
     int n; // количество чисел в файле
-    int myN; // число вводимео с клавиатуры
+    int myN; // число вводимое с клавиатуры
     int rand_number;
     
     srand(time(NULL));

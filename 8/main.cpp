@@ -33,7 +33,6 @@ int main()
     float MaxA = 0, MinA = 0;
     float MaxB = 0, MinB = 0;
     float MaxC = 0, MinC = 0;
-    float MaxAB = 0, MinAB = 0;
     
     srand(time(NULL));
     
