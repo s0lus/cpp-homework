@@ -11,6 +11,7 @@ file(GLOB SOURCES_6 6/*)
 file(GLOB SOURCES_7 7/*)
 file(GLOB SOURCES_8 8/*)
 file(GLOB SOURCES_9 9/*)
+file(GLOB SOURCES_10 10/*)
 
 add_executable(1 ${SOURCES_1})
 add_executable(2 ${SOURCES_2})
@@ -21,4 +22,5 @@ add_executable(6 ${SOURCES_6})
 add_executable(7 ${SOURCES_7})
 add_executable(8 ${SOURCES_8})
 add_executable(9 ${SOURCES_9})
+add_executable(10 ${SOURCES_10})
 
